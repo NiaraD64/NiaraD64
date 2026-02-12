@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi I'm Niara👋
 
-<!--
-**NiaraD64/NiaraD64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analytics graduate student @ Western Governors University with a passion for turning data into actionable insights. 
 
-Here are some ideas to get you started:
+I enjoy working on projects that combine analytics, problem-solving, and storytelling to help businesses make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies💻
+
+-Programming Languages: Python (Pandas, NumPy, SciPy, Statsmodels), SQL
+
+-Data Visualization: Matplotlib, Seaborn, Tableau
+
+-Data Analysis: Hypothesis Testing, Descriptive Statistics, EDA, Data Cleaning & Preprocessing
+
+-Databases: PostgreSQL (Database Design, Query Optimization)
+
+-Other Tools: Excel (Pivot Tables, XLOOKUP), PowerPoint
+
+## Fun Facts about Me
+
+-Gamer🎮
+
+-Into Anime📺
