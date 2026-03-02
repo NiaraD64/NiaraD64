@@ -6,11 +6,11 @@ I enjoy working on projects that combine analytics, problem-solving, and storyte
 
 ## Tools & Technologies💻
 
--Programming Languages: Python (Pandas, NumPy, SciPy, Statsmodels), SQL
+-Programming Languages: Python (Pandas, NumPy, SciPy, Statsmodels, Scikit-learn), SQL
 
 -Data Visualization: Matplotlib, Seaborn, Tableau
 
--Data Analysis: Hypothesis Testing, Descriptive Statistics, EDA, Data Cleaning & Preprocessing
+-Data Analysis: Hypothesis Testing, Descriptive Statistics, Statistical Data Mining, EDA, Data Cleaning & Preprocessing, Statistical Modeling
 
 -Databases: PostgreSQL (Database Design, Query Optimization)
 
@@ -18,6 +18,6 @@ I enjoy working on projects that combine analytics, problem-solving, and storyte
 
 ## Fun Facts about Me
 
--Gamer🎮
+-Gamer🎮 ~ Currently playing Resident Evil 9 Requiem
 
 -Into Anime📺
